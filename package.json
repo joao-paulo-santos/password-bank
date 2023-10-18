@@ -1,0 +1,19 @@
+{
+  "name": "password-bank",
+  "version": "1.0.0",
+  "description": "offline secure password storage",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "password",
+    "storage"
+  ],
+  "author": "Joao santos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
